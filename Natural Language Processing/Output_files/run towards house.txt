@@ -1,0 +1,116 @@
+opening the gate!/prev
+shakes his head/prev
+run towards/curr
+sees his son about to be hit by/next
+run/part
+run/part
+ceiling/part
+============================================
+talking about you being/prev
+wearing the jacket/prev
+picks something/prev
+looking up towards/curr
+was a very wealthy man/next
+was/next
+see, the thing/next
+staring at the surreal, hard edged/next
+head/part
+Zafiratos/part
+daughter/part
+============================================
+opening the gate!/prev
+run towards the Machine. 1/curr
+sees his son about to be hit by/next
+Shut/next
+run/part
+ceiling/part
+run/part
+============================================
+smiles/prev
+continues to run./curr
+study, it/next
+run/part
+Celia/part
+run/part
+APPLAUSE/part
+============================================
+opening the gate!/prev
+Come/prev
+sails towards/curr
+sees his son about to be hit by/next
+Shut/next
+pulls them/next
+ceiling/part
+light/part
+Wink/part
+strength/part
+Hushpuppy/part
+============================================
+comes/prev
+opening the gate!/prev
+heads towards/curr
+sees his son about to be hit by/next
+Shut/next
+Eliot/part
+ceiling/part
+============================================
+turn their attention/prev
+lies with no machines at all/prev
+is/prev
+falls from the/prev
+mean/prev
+comes towards the/curr
+finds Leonard/next
+laying on the/next
+CARDS/part
+cage/part
+treehouse/part
+head/part
+trunk/part
+trouble/part
+shit/part
+============================================
+turn their attention/prev
+lies with no machines at all/prev
+is/prev
+falls from the/prev
+mean/prev
+comes towards/curr
+finds Leonard/next
+laying on the/next
+CARDS/part
+cage/part
+treehouse/part
+head/part
+trunk/part
+trouble/part
+shit/part
+============================================
+see/prev
+wasn’t/prev
+Put it/prev
+Put this towards/curr
+Put it/next
+finds the wall/next
+hands the Hostess a 50/next
+rolls her/next
+That’s/part
+Gru/part
+============================================
+twisted/prev
+know that/prev
+turns towards/curr
+go/next
+takes a few sips of water from his hand/next
+takes a few unsteady steps along the corridor, clearly/next
+Everyone/part
+exasperated/part
+============================================
+have a look:/prev
+HAMMERING on the Access Tunnel/prev
+doing by the river/prev
+runs farther out, towards the front/curr
+tunnel/part
+hesitation/part
+Mirus/part
+============================================

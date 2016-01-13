@@ -1,0 +1,13 @@
+
+viterbi_algo.py - contains the code that computes the error rate of the test data based on the training data
+
+entrain.txt - contains the training data
+
+entest.txt - contains the test data
+
+
+TO RUN:
+
+Run "python viterbi_algo.py" in the terminal.
+
+The file will pick up entrain.txt annd entest.txt placed in the same folder and compute the error rate and displays it.
